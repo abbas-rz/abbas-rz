@@ -1,4 +1,4 @@
-Hey there, I am Abbas, I like the weeknd, minecraft, and other cool stuff
+Hey there, I am Abbas, I like the weeknd, minecraft, and other cool stuff. <br>
 you can reach out to me on discord @4bbxs
 <!---
 abgr8/abgr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
