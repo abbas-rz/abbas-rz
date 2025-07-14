@@ -39,10 +39,9 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 
 ## 💬 Contact & Links
 - 🌐 Blog: [abbas.is-a.dev](https://abbas.is-a.dev)
-- 📧 Email: `anything@abbas.is-a.dev`
+- 📧 Email: `contact@abbas.is-a.dev`
 - 🎧 SoundCloud: [@4bbxs](https://soundcloud.com/4bbxs)
 - 💬 Discord: `@4bbvs`
-- 📷 Insta (if public): *optional*
 
 ---
 
