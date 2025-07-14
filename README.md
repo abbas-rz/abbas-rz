@@ -7,7 +7,7 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 
 ---
 
-## 🔧 ~~What I'm Working On~~ (OUTDATED, REFER TO BLOG/REPOS)
+## 🔧 What I'm Working On (REFER TO BLOG/REPOS to get up to date info)
 - 🧪 [**Ctrl-Shift-Abbas**](https://abbas.is-a.dev) – My blog & digital lab (tech, music, thoughts)
 - ⚡ Spicetify Plugin: Spotify Downloader powered by LLMs
 - 📱 AI Calorie Tracker App (TensorFlow + OpenCV)
@@ -17,7 +17,9 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 
 ---
 
-## 🏆 What I Did in Eleventh Grade
+## 🏆 Stuff I've been doing lately
+
+(I've been building and creating since I was 7 — from scripting games to editing my first videos in 4th grade. Here's a glimpse into what I've been up to recently as of writing this:)
 - 🥇 **94% in CBSE Boards (100% in AI)**, Subject Topper
 - 🏅 Winner (Gold Medalist) – Moglix Internship Program
 - 🎤 Addressed 500+ at Investiture Ceremony as Compere
