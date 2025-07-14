@@ -7,7 +7,7 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 
 ---
 
-## 🔧 What I'm Working On
+## 🔧 ~~What I'm Working On~~ (OUTDATED, REFER TO BLOG/REPOS)
 - 🧪 [**Ctrl-Shift-Abbas**](https://abbas.is-a.dev) – My blog & digital lab (tech, music, thoughts)
 - ⚡ Spicetify Plugin: Spotify Downloader powered by LLMs
 - 📱 AI Calorie Tracker App (TensorFlow + OpenCV)
