@@ -13,7 +13,7 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 - 📱 AI Calorie Tracker App (TensorFlow + OpenCV)
 - 🎓 T3 Clone – AI LLM interface with a sleek UI
 - 🌌 Physics Simulator – visually interactive, student-built
-- 🔍 OSINT Tool for threat intelligence (GPT-powered)
+- 🔍 OSINT Tool for MUN's (LLM-powered)
 
 ---
 
