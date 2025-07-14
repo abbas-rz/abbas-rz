@@ -47,4 +47,4 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 
 ## 📊 GitHub Stats
 
-![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=4bbvs&show_icons=true&theme=radical)
+![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbas-rz&show_icons=true&theme=radical)
