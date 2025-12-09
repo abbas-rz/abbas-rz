@@ -1,46 +1,42 @@
 # 👨‍💻 Ctrl-Shift-Abbas | `@4bbvs`
 
-> *Tech. Music. Philosophy.*  
-> Exploring code, sound, and the chaos in between.
 
-Hey, I'm Abbas — a high schooler building weirdly cool things at the intersection of logic and creativity. I make software, write music, shoot edits, and think in systems. I’m also 16. This profile is my playground.
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ee4a1df-7836-4c42-b40e-f8da06295ed4" />
 
 ---
 
-## 🔧 What I'm Working On (REFER TO BLOG/REPOS to get up to date info)
-- 🧪 [**Ctrl-Shift-Abbas**](https://abbas.is-a.dev) – My blog & digital lab (tech, music, thoughts)
-- ⚡ Spicetify Plugin: Spotify Downloader powered by LLMs
-- 📱 AI Calorie Tracker App (TensorFlow + OpenCV)
-- 🎓 T3 Clone – AI LLM interface with a sleek UI
-- 🌌 Physics Simulator – visually interactive, student-built
-- 🔍 OSINT Tool for MUN's (LLM-powered)
+Hey, I'm Abbas — a high schooler building cool things at the intersection of logic and creativity. I make software, write music, shoot edits, and think in systems. I’m also 16. This profile is my playground.
+
 
 ---
+# Hello!
+I’m an AI Systems & Software Engineer working at the intersection of applied machine learning, robotics, and developer tooling. I build end-to-end systems from model inference and automation pipelines to UI/UX layers and production deployment.
 
-## 🏆 Stuff I've been doing lately
+## Currently:
+- Chief AI & Software Engineer @ Valley Boys Robotics — leading model integration, perception stack development, and control tooling for intelligent robots.
+- Independent Developer — shipping tools, plugins, and micro-products used by real users.
 
-(I've been building and creating since I was 7 — from scripting games to editing my first videos in 4th grade. Here's a glimpse into what I've been up to recently as of writing this:)
-- 🥇 **94% in CBSE Boards (100% in AI)**, Subject Topper
-- 🏅 Winner (Gold Medalist) – Moglix Internship Program
-- 🎤 Addressed 500+ at Investiture Ceremony as Compere
-- 💼 Pitched an AI Startup to a $2B Company CEO
-- 🎸 Lead Vocalist & Host – Rock Band Competition
-- 🎮 Led and organized Interschool Esports Tournament
-- 🎬 Commercial Video Editor – Worked with 1M+ sub channels & gaming servers
-- 🔊 Released original music on [SoundCloud](https://soundcloud.com/4bbxs), self-written, produced & mastered
-- 🧠 Collaborated on 5+ open source projects in AI, frontend, tooling, and automation
-- 🗣️ Debate Veteran, competed at all levels, upto IIT Delhi MUN, including several wins.
+## Highlights
+- 94% CBSE | 100 in AI (Subject Topper)
+- Gold Medalist — Moglix Tech & Innovation Internship Program
+- Led 500+ audience ceremony as Compere + Band Vocalist
+- Debate & MUN Champion (IIT Delhi level)
+- Commercial video editor for channels with 1M+ audiences
+
+Interests: AI systems, robotics, computational cognition, media creation\
+Portfolio: https://abbas.is-a.dev.
 
 ---
 
 ## 🎵 Outside of Code
-- 🎧 Producing music (The Weeknd-inspired vibes)
+- 🎧 Producing music (The Weeknd-inspired)
 - 🎬 Editing cinematic visuals, trailers, content reels
 - 🛸 Philosophizing about tech, systems, and consciousness
 
 ---
 
 ## 💬 Contact & Links
+- 🌐 Linkedin: [Abbas Raza](https://www.linkedin.com/in/abbas-raza-7b8516218/)
 - 🌐 Blog: [abbas.is-a.dev](https://abbas.is-a.dev)
 - 📧 Email: `contact@abbas.is-a.dev`
 - 🎧 SoundCloud: [@4bbxs](https://soundcloud.com/4bbxs)
