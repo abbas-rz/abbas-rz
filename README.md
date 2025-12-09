@@ -5,7 +5,7 @@
 
 ---
 
-Hey, I'm Abbas — a high schooler building cool things at the intersection of logic and creativity. I make software, write music, shoot edits, and think in systems. I’m also 16. This profile is my playground.
+Hey, I'm Abbas; A high schooler building cool things at the intersection of logic and creativity. I make software, write music, shoot edits, and think in systems. I’m also 16. This profile is my playground.
 
 
 ---
