@@ -1,15 +1,9 @@
 # 👨‍💻 Ctrl-Shift-Abbas | `@4bbvs`
 
-
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ee4a1df-7836-4c42-b40e-f8da06295ed4" />
-
----
+<img width="883" height="300" alt="image (1)" src="https://github.com/user-attachments/assets/851f0177-4c42-42d7-ae40-74222d2224b3" />
 
 Hey, I'm Abbas; A high schooler building cool things at the intersection of logic and creativity. I make software, write music, shoot edits, and think in systems. I’m also 16. This profile is my playground.
 
-
----
-# Hello!
 I’m an AI Systems & Software Engineer working at the intersection of applied machine learning, robotics, and developer tooling. I build end-to-end systems from model inference and automation pipelines to UI/UX layers and production deployment.
 
 ## Currently:
