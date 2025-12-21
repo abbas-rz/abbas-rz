@@ -9,7 +9,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="contact@abbas.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/abbas-rz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/4bbvs" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/abbas-raza-7b8516218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@dabbasthegreat" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I’m an AI Systems & Software Engineer working at the intersection of applied machine learning, robotics, and developer tooling. I build end-to-end systems from model inference and automation pipelines to UI/UX layers and production deployment.</h3>**
+ **<h3 align="left">Student AI systems engineer focused on building end-to-end automation, robotics perception pipelines, and developer tooling. Experienced in taking ideas from prototype to deployment across ML inference, control systems, and UI layers.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
